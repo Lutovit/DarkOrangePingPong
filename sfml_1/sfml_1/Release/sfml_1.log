@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(82): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+main.cpp(85): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  Generating code
+  2 of 114 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sfml_1.vcxproj -> D:\курсы С++ бауманка\sfml_1\Release\sfml_1.exe
+  sfml_1.vcxproj -> D:\курсы С++ бауманка\sfml_1\Release\sfml_1.pdb (Full PDB)
