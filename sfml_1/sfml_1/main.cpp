@@ -274,7 +274,7 @@ int main()
 	/**/
 
 	/*-----------------------звук---------------------------------------------------------------*/
-
+	
 	sf::SoundBuffer buffer_1;
 	if (buffer_1.loadFromFile("Cow.wav")) {
 		std::cout <<" Sound1 is loaded!" << std::endl;
@@ -322,7 +322,7 @@ int main()
 	brend.setFont(font);
 	brend.setFillColor(sf::Color(0, 100, 0));
 	brend.setCharacterSize(20);
-	brend.setString("TeaCupGames");
+	brend.setString("MaxMalakhovGameDev=)");
 	brend.setPosition(25, window_hight - 25);
 
 	/*-------------------------------------------счетчик очков----------------------------------------- */
